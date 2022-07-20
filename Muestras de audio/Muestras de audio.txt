@@ -1,1 +1,2 @@
-Muestras de audio:
+Muestras de audio: Esta muestra contiene el sonido del Plug-in empezando desde un sonido con el pedal desactivado en
+la primera vuelta del compás, posteriormente el Plug-in encendido a diferentes niveles de ganancia.
